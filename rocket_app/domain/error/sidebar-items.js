@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["err_msg","Constructs a `Fail` type from a string."]],"mod":[["err_msg","An experimental new error-handling library. Guide-style introduction is available here."]],"type":[["Error","The main error type "]]});
